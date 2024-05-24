@@ -1,9 +1,6 @@
 <!DOCTYPE html>
-<<<<<<< HEAD
 <!-- Saïam -->
-=======
 <!--apagnan-->
->>>>>>> 0896541d352c96a3e8488bb349f1c9cafbb9fca6
 <html>
 
     <head>
